@@ -36,3 +36,5 @@ coverage.xml
 # SVG tool temp files or output artifacts
 *.svg
 output/
+hershey-fonts-master/
+hershey-fonts-master.zip
